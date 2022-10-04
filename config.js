@@ -41,33 +41,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://www.instagram.com/hendra.mllb/'
-global.sgh = ''
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+global.sig = 'https://www.instagram.com/gamer.s_official'
+global.sgh = 'https://github.com/RezaOfc'
+global.sgc = 'https://chat.whatsapp.com/Htbopc53nFD3puFb3LfMe1'
 global.sdc = ''
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083181085070'
-global.povo = '083181085070'
-global.pgopay = '083181085070'
-global.ppulsa = '083181085070'
-global.ppulsa2 = '083181085070'
+global.pdana = '081515696780'
+global.povo = ''
+global.pgopay = '081515696780'
+global.ppulsa = '089606790112'
+global.ppulsa2 = '081515696780'
 global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285794152433'
-global.nomorown = '6285794152433'
-global.namebot = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐【﻿ＸｘＹｚ】'
-global.nameown = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.nomorbot = '6283815019820'
+global.nomorown = '6289606790112'
+global.namebot = 'EzaBot-MD࿐【RezaOfc】'
+global.nameown = 'RezaOfc࿐'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285794152433'],
-  ['6285794152433'],
-  ['6285794152433'],
-  ['6285794152433', '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐【﻿ＸｘＹｚ】', true]
+  ['6289606790112'],
+  ['6289606790112'],
+  ['6289606790112'],
+  ['6289606790112', 'RezaOfc࿐', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '☘︎ 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.wm = 'EzaBot-MD࿐【﻿RezaOfc】' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ EzaBot-MD࿐¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '☘︎ EzaBot-MD࿐'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ EzaBot-ᴍᴅ᭄'
 
 
 /*============== LOGO ==============*/
