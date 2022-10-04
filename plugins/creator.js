@@ -18,11 +18,11 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
+let ppown = 'https://telegra.ph/file/d7def96655c51623fbb9f.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* :Bara
-❑ *Umur* :13 Tahun
-❑ *Kelas* :1 Smp
+❑ *Nama* :Reza
+❑ *Umur* :1 Tahun
+❑ *Kelas* : 0 
 
 ❑ *Ulang Tahun* :18 Okto 2008
 ❑ *Alamat* : Indonesia,Jawa Barat, Bandung
